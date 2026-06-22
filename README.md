@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ajeet0020/LeetCode-Java/tree/master/0069-sqrtx) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ajeet0020/LeetCode-Java/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
