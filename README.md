@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ajeet0020/LeetCode-Java/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/ajeet0020/LeetCode-Java/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,4 +24,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ajeet0020/LeetCode-Java/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/ajeet0020/LeetCode-Java/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ajeet0020/LeetCode-Java/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
