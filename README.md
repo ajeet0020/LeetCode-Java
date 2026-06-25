@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ajeet0020/LeetCode-Java/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/ajeet0020/LeetCode-Java/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ajeet0020/LeetCode-Java/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ajeet0020/LeetCode-Java/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
