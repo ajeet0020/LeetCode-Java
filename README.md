@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ajeet0020/LeetCode-Java/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/ajeet0020/LeetCode-Java/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ajeet0020/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ajeet0020/LeetCode-Java/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/ajeet0020/LeetCode-Java/tree/master/0443-string-compression) |
 ## Simulation
 |  |
 | ------- |
