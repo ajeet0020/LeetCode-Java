@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ajeet0020/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ajeet0020/LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/ajeet0020/LeetCode-Java/tree/master/0443-string-compression) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ajeet0020/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ajeet0020/LeetCode-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Simulation
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ajeet0020/LeetCode-Java/tree/master/0268-missing-number) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ajeet0020/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/ajeet0020/LeetCode-Java/tree/master/1732-find-the-highest-altitude) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ajeet0020/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
