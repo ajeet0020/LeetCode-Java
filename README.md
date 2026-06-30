@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ajeet0020/LeetCode-Java/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ajeet0020/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ajeet0020/LeetCode-Java/tree/master/0443-string-compression) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ajeet0020/LeetCode-Java/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajeet0020/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/ajeet0020/LeetCode-Java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/0189-rotate-array) |
