@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/ajeet0020/LeetCode-Java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajeet0020/LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ajeet0020/LeetCode-Java/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ajeet0020/LeetCode-Java/tree/master/0344-reverse-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ajeet0020/LeetCode-Java/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ajeet0020/LeetCode-Java/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajeet0020/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajeet0020/LeetCode-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/ajeet0020/LeetCode-Java/tree/master/0162-find-peak-element) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/ajeet0020/LeetCode-Java/tree/master/0268-missing-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajeet0020/LeetCode-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
