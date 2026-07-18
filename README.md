@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ajeet0020/LeetCode-Java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ajeet0020/LeetCode-Java/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ajeet0020/LeetCode-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ajeet0020/LeetCode-Java/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ajeet0020/LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ajeet0020/LeetCode-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ajeet0020/LeetCode-Java/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ajeet0020/LeetCode-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ajeet0020/LeetCode-Java/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ajeet0020/LeetCode-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ajeet0020/LeetCode-Java/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ajeet0020/LeetCode-Java/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
