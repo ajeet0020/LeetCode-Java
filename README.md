@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ajeet0020/LeetCode-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ajeet0020/LeetCode-Java/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/ajeet0020/LeetCode-Java/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ajeet0020/LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ajeet0020/LeetCode-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ajeet0020/LeetCode-Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -126,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ajeet0020/LeetCode-Java/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ajeet0020/LeetCode-Java/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
