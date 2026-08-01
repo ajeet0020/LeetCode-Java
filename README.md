@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/ajeet0020/LeetCode-Java/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/ajeet0020/LeetCode-Java/tree/master/0196-delete-duplicate-emails) |
+| [0619-biggest-single-number](https://github.com/ajeet0020/LeetCode-Java/tree/master/0619-biggest-single-number) |
 ## Two Pointers
 |  |
 | ------- |
