@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ajeet0020/LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ajeet0020/LeetCode-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ajeet0020/LeetCode-Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ajeet0020/LeetCode-Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
