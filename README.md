@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/ajeet0020/LeetCode-Java/tree/master/0196-delete-duplicate-emails) |
 | [0619-biggest-single-number](https://github.com/ajeet0020/LeetCode-Java/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/ajeet0020/LeetCode-Java/tree/master/0620-not-boring-movies) |
+| [1729-find-followers-count](https://github.com/ajeet0020/LeetCode-Java/tree/master/1729-find-followers-count) |
 ## Two Pointers
 |  |
 | ------- |
