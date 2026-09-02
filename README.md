@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ajeet0020/LeetCode-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ajeet0020/LeetCode-Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ajeet0020/LeetCode-Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ajeet0020/LeetCode-Java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajeet0020/LeetCode-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ajeet0020/LeetCode-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ajeet0020/LeetCode-Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ajeet0020/LeetCode-Java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
