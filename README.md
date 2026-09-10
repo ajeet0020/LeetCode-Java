@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/ajeet0020/LeetCode-Java/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/ajeet0020/LeetCode-Java/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/ajeet0020/LeetCode-Java/tree/master/1148-article-views-i) |
+| [1667-fix-names-in-a-table](https://github.com/ajeet0020/LeetCode-Java/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/ajeet0020/LeetCode-Java/tree/master/1729-find-followers-count) |
 ## Two Pointers
 |  |
