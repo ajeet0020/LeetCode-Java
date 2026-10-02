@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ajeet0020/LeetCode-Java/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/ajeet0020/LeetCode-Java/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ajeet0020/LeetCode-Java/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajeet0020/LeetCode-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1929-concatenation-of-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ajeet0020/LeetCode-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ajeet0020/LeetCode-Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ajeet0020/LeetCode-Java/tree/master/3875-construct-uniform-parity-array-i) |
