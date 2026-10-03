@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ajeet0020/LeetCode-Java/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/ajeet0020/LeetCode-Java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/ajeet0020/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ajeet0020/LeetCode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ajeet0020/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ajeet0020/LeetCode-Java/tree/master/0643-maximum-average-subarray-i) |
@@ -134,11 +135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/ajeet0020/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ajeet0020/LeetCode-Java/tree/master/0268-missing-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajeet0020/LeetCode-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ajeet0020/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ajeet0020/LeetCode-Java/tree/master/0268-missing-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ajeet0020/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
