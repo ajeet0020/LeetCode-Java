@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ajeet0020/LeetCode-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ajeet0020/LeetCode-Java/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/ajeet0020/LeetCode-Java/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/ajeet0020/LeetCode-Java/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajeet0020/LeetCode-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/1929-concatenation-of-array) |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ajeet0020/LeetCode-Java/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/ajeet0020/LeetCode-Java/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
