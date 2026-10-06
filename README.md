@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ajeet0020/LeetCode-Java/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ajeet0020/LeetCode-Java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajeet0020/LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ajeet0020/LeetCode-Java/tree/master/0088-merge-sorted-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ajeet0020/LeetCode-Java/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ajeet0020/LeetCode-Java/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ajeet0020/LeetCode-Java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ajeet0020/LeetCode-Java/tree/master/0035-search-insert-position) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ajeet0020/LeetCode-Java/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajeet0020/LeetCode-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajeet0020/LeetCode-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
