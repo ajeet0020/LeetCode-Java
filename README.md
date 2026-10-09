@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ajeet0020/LeetCode-Java/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ajeet0020/LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ajeet0020/LeetCode-Java/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/ajeet0020/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ajeet0020/LeetCode-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ajeet0020/LeetCode-Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ajeet0020/LeetCode-Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ajeet0020/LeetCode-Java/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ajeet0020/LeetCode-Java/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ajeet0020/LeetCode-Java/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/ajeet0020/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/ajeet0020/LeetCode-Java/tree/master/0704-binary-search) |
 ## Database
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ajeet0020/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ajeet0020/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/ajeet0020/LeetCode-Java/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/ajeet0020/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
